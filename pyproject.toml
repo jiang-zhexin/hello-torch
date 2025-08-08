@@ -1,0 +1,7 @@
+[project]
+name = "hello-torch"
+version = "0.1.0"
+description = "Hello Torch"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = ["numpy>=2.3.2", "torch>=2.8.0"]
